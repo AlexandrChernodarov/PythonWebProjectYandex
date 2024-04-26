@@ -1,11 +1,9 @@
 from flask import Flask, render_template, redirect, request, abort, make_response, session, jsonify
 from flask_login import LoginManager, login_user, login_required, logout_user, current_user
-from flask_restful import reqparse, abort, Api, Resource
-import charade
+from flask_restful import abort
 
 from data import db_session, news_api
 from data.users import User
-from data.news_resources import NewsListResource, NewsResource
 from data.news import News
 from forms.user import RegisterForm, LoginForm
 from forms.news import NewsForm
@@ -121,7 +119,6 @@ def edit_news(id):
             form.title.data = news.title
             form.content.data = news.content
             form.contention.data = news.contention
-            form.is_private.data = True
         else:
             abort(404)
     if form.validate_on_submit():
@@ -132,7 +129,7 @@ def edit_news(id):
         if news:
             news.title = form.title.data
             news.content = form.content.data
-            news.contention = form.contention.data
+            news.contention = form.contention.data.read().decode('utf-8')
             news.is_private = True
             db_sess.commit()
             return redirect('/')
