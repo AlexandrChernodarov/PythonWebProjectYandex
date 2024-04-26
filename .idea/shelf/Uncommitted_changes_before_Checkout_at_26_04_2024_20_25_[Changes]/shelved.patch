@@ -1,0 +1,82 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"62294f2b-91f4-47da-8172-8b910dd13b68\" name=\"Changes\" comment=\"нормальное чтение из файла\">\r\n      <change beforePath=\"$PROJECT_DIR$/alembic.ini\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/alembic/README\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/alembic/env.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/alembic/script.py.mako\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/__all_models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/data/__all_models.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/category.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/news_api.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/data/news_resources.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/db/blogs.db\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/templates/odd_even.html\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/test.py\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/testmain.py\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2elfkbFJfZPTo6YB44RVujw1po5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;Python.__all_models.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.test.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Алекс/PycharmProjects/PythonWebProjectYandex&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Алекс\\PycharmProjects\\PythonWebProjectYandex\\data\" />\r\n      <recent name=\"C:\\Users\\Алекс\\PycharmProjects\\PythonWebProjectYandex\\static\\css\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"62294f2b-91f4-47da-8172-8b910dd13b68\" name=\"Changes\" comment=\"\" />\r\n      <created>1712484228672</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1712484228672</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"первый комит\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1713815720115</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1713815720115</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"презентация, изменино добавление файла\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714147572181</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714147572181</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"нормальное чтение из файла\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1714151490734</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1714151490734</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"первый комит\" />\r\n    <MESSAGE value=\"презентация, изменино добавление файла\" />\r\n    <MESSAGE value=\"нормальное чтение из файла\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"нормальное чтение из файла\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5f66ef5908d19e02b1d3d0f7f948470bfd473ae4)
++++ b/.idea/workspace.xml	(date 1714152264843)
+@@ -4,21 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="62294f2b-91f4-47da-8172-8b910dd13b68" name="Changes" comment="нормальное чтение из файла">
+-      <change beforePath="$PROJECT_DIR$/alembic.ini" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/alembic/README" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/alembic/env.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/alembic/script.py.mako" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/__all_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/__all_models.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/category.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/news_api.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/data/news_resources.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/db/blogs.db" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/odd_even.html" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/testmain.py" beforeDir="false" />
+-    </list>
++    <list default="true" id="62294f2b-91f4-47da-8172-8b910dd13b68" name="Changes" comment="плохое удаление файлов" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -102,13 +88,45 @@
+       <option name="project" value="LOCAL" />
+       <updated>1714151490734</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="плохое удаление файлов">
++      <option name="closed" value="true" />
++      <created>1714151961050</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1714151961050</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="master" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="первый комит" />
+     <MESSAGE value="презентация, изменино добавление файла" />
+     <MESSAGE value="нормальное чтение из файла" />
+-    <option name="LAST_COMMIT_MESSAGE" value="нормальное чтение из файла" />
++    <MESSAGE value="плохое удаление файлов" />
++    <option name="LAST_COMMIT_MESSAGE" value="плохое удаление файлов" />
+   </component>
+ </project>
+\ No newline at end of file
