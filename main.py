@@ -96,8 +96,8 @@ def add_news():
         db_sess = db_session.create_session()
         news = News()
         news.title = form.title.data
-        f = form.contention.data
-        news.content = f
+        news.contention = form.contention.data
+        news.content = form.content.data
         news.is_private = True
         current_user.news.append(news)
         db_sess.merge(current_user)
@@ -119,6 +119,7 @@ def edit_news(id):
         if news:
             form.title.data = news.title
             form.content.data = news.content
+            form.contention.data = news.contention
             form.is_private.data = True
         else:
             abort(404)
@@ -130,6 +131,7 @@ def edit_news(id):
         if news:
             news.title = form.title.data
             news.content = form.content.data
+            news.contention = form.contention.data
             news.is_private = True
             db_sess.commit()
             return redirect('/')
