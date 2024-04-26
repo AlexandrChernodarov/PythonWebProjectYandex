@@ -1,6 +1,7 @@
 from flask import Flask, render_template, redirect, request, abort, make_response, session, jsonify
 from flask_login import LoginManager, login_user, login_required, logout_user, current_user
 from flask_restful import reqparse, abort, Api, Resource
+import charade
 
 from data import db_session, news_api
 from data.users import User
@@ -96,7 +97,7 @@ def add_news():
         db_sess = db_session.create_session()
         news = News()
         news.title = form.title.data
-        news.contention = form.contention.data
+        news.contention = form.contention.data.read().decode('utf-8')
         news.content = form.content.data
         news.is_private = True
         current_user.news.append(news)
